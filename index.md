@@ -7,3 +7,5 @@
 [kotlin](kotlin/index.md)
 
 ### Everything else about homo sapiens
+
+- [microservices](etc/microservices.md)
