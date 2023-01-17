@@ -18,6 +18,8 @@ Yes you have gained modularity, the death of a microservice doesn't necessarily 
 
 Response times won't be better. We added a lot of networking, it doesn't do good to response times.
 
-When some library dependency requires security patching, you will have to patch all of your microservices. Of course, you can write some script to do this, now it looks simple again... but just not as simple as a 
+When some library dependency requires security patching, you will have to patch all of your microservices. Of course, you can write some script to do this, now it looks simple again... but just not as simple as a it used to be.
+
+
 
 
